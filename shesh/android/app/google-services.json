@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823275179908",
+    "project_id": "kaidefirebase",
+    "storage_bucket": "kaidefirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823275179908:android:2e270931e0b5d01b9cd7d1",
+        "android_client_info": {
+          "package_name": "com.example.shesh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsMF2CcavRMINzo475qU1NL8_ZKs2eCao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
